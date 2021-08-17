@@ -1,2 +1,2 @@
-# Orden-Countingsort
+# Ordenamiento-Countingsort
 Algoritmo de ordenamiento Countingsort
